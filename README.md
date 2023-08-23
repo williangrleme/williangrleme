@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Willian</h1>
 <h3 align="center">Interessado pela ciência de dados, inteligência artificial e robótica aplicada, trazendo consigo conhecimentos em eletroeletrônica e engenharia da computação.</h3>
 
-- 🔭 Atualmente estou no 10° semestre de engenharia de computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/)
+- 🔭 Hoje em dia, estou no 10° semestre de engenharia de computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/)
 
 - 🌱 Atualmente estou melhorando minhas habilidades em **Python e Data Science**
 

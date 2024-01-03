@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou o Willian</h1>
-<h3 align="center">Interessado pela ciência de dados, inteligência artificial e robótica aplicada, trazendo consigo conhecimentos em eletroeletrônica e engenharia da computação.</h3>
+<h3 align="center">Interessado pela tecnologia como um todo, mas com um olhar mais apaixonado pelo Desenvolvimento de Software , Ciência de Dados e Inteligência Artificial, trazendo consigo conhecimentos em eletroeletrônica e engenharia da computação.</h3>
 
 - 🔭 Hoje em dia, estou no 10° semestre de engenharia de computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/)
 
-- 🌱 Atualmente estou melhorando minhas habilidades em **Python e Data Science**
+- 🌱 Atualmente estou melhorando minhas habilidades em **Python e Desenvolvimento de Software**
 
-- 💬 Me pergunte sobre **SQL, Python, Desenvolvimento de software, Programação competitiva**
+- 💬 Me pergunte sobre **SQL, Python, Docker, Programação competitiva, Eletronica Digital**
 
 - 📫 Você me acha em **gusthavo_palm@hotmail.com**
   
-- 📄 Sou técnico em eletroeletrônica, formado pelo SENAI e atualmente, graduando de Engenharia da computação no IFSP. Tenho conhecimento, no mínimo básico, na maioria das áreas da tecnologia, como Eletrônica, Elétrica, Programação e Engenharia. Em particular, tenho experiências pessoais na área de programação competitiva, tendo participado de algumas maratonas de programação. Também possuo experiência em programação de microcontroladores voltada para IoT, tendo realizado um projeto de Iniciação Científica nessa área. Além disso, tenho experiência em projetos de plantas CAD, adquirida por meio de um projeto de extensão da faculdade. Em relação à programação, possuo domínio nas linguagens C e Python. Tenho experiências práticas com mineração de dados e, atualmente, meu interesse está voltado para a área de ciência de dados.
+- 📄 Sou técnico em eletroeletrônica, formado pelo SENAI e atualmente, graduando de Engenharia da computação no IFSP. Tenho conhecimento, no mínimo básico, na maioria das áreas da tecnologia, como Eletrônica, Elétrica, Programação e Engenharia. Em particular, tenho experiências pessoais na área de programação competitiva, tendo participado de algumas maratonas de programação. Também possuo experiência em programação de microcontroladores voltada para IoT, tendo realizado um projeto de Iniciação Científica nessa área. Além disso, tenho experiência em projetos de plantas CAD, adquirida por meio de um projeto de extensão da faculdade. Em relação à programação, possuo domínio nas linguagens C, Python e brinco com Javascript. Tenho experiências práticas academicas em diversas areas da Engenharia da computação, mas me destaquei nas áreas do software como mineração de dados e desenvolvimento de software.
 
 
 <h3 align="left">Se conecte comigo em:</h3>

@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou melhorando minhas habilidades em **Python e Desenvolvimento de Software**
 
-- 💬 Me pergunte sobre **SQL, Python, Docker, Programação competitiva, Eletronica Digital**
+- 💬 Me pergunte sobre **SQL, Python, Docker, Programação competitiva, Eletrônica Digital**
 
 - 📫 Você me acha em **gusthavo_palm@hotmail.com**
   

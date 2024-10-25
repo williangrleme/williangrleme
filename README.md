@@ -32,7 +32,7 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
 
 <h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" alt="ESP32" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
@@ -42,6 +42,7 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
 
 
 

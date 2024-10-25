@@ -20,9 +20,11 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
 - Projeto de Tecnologia Assistiva com IoT, criando um rastreador de baixo custo para pessoas com Alzheimer.
 - Utilização de **ESP32**, **LoRa** e **MQTT** para conectar dados a um sistema web, com informações armazenadas em banco de dados.
 
+
 ### 🌱 Atualmente Aprendendo
-- Aprofundando em **Python**, com foco em **bibliotecas de data science** para apoiar o desenvolvimento do meu TCC.
-- Desenvolvendo o **EasyMiner**, uma plataforma acessível para mineração de dados que usa **Flask** e várias técnicas de **KDD (Knowledge Discovery in Databases)**.
+Estou aprofundando meus conhecimentos em **desenvolvimento web** no ecossistema **Laravel**, focando em **testes unitários**, **design patterns**, **escalabilidade** e **segurança** das aplicações. Também estou ampliando minha compreensão sobre **arquitetura de software** para desenvolver soluções robustas e eficientes.
+
+- Aprofundando meus conhecimentos em **Python**, com foco em **bibliotecas de data science** que irão enriquecer meu TCC, permitindo análises mais sofisticadas e abordagens inovadoras.
 
 ### 📫 Como Me Encontrar
 - Email: [willian_leme@proton.me](mailto:willian_leme@proton.me)

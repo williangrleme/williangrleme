@@ -36,12 +36,13 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🌐 Projetos em Destaque
-#### 🔹 [EasyMiner](https://github.com/seu-repositorio)
+#### 🔹 [EasyMiner](https://github.com/williangrleme/EasyMinerAPI)
 Uma aplicação que democratiza o uso de algoritmos de mineração de dados, tornando-os acessíveis para usuários de diferentes backgrounds técnicos.

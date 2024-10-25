@@ -4,7 +4,9 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Apaixonado por resolver problemas complexos e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. Hoje, estou meu ultimo ano de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde venho desenvolvendo todas minhas habilidades com software e hardware. 
+Apaixonado por resolver problemas e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. 
+
+Hoje, estou meu ultimo ano de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde venho desenvolvendo todas minhas habilidades com software e hardware. 
 
 ### 🎯 Objetivos e Interesses
 Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vida, como evidenciado pelo meu projeto de TCC, EasyMiner, que facilita a mineração de dados para pessoas sem conhecimento técnico. Também me interesso por **programação competitiva** e **Internet das Coisas (IoT)**, tendo participado de maratonas como o ICPC e realizado uma Iniciação Científica para desenvolver soluções assistivas para pessoas com Alzheimer.

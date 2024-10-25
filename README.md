@@ -32,7 +32,7 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
 
 <h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esp32/esp32-original.svg" alt="ESP32" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" alt="ESP32" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 

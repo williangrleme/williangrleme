@@ -1,22 +1,47 @@
 <h1 align="center">Olá 👋, Eu sou o Willian</h1>
-<h3 align="center">Interessado pela tecnologia como um todo, mas com um olhar mais apaixonado pelo Desenvolvimento de Software , Ciência de Dados e Inteligência Artificial, trazendo consigo conhecimentos em eletroeletrônica e engenharia da computação.</h3>
+<h3 align="center">Entusiasta de tecnologia e estudante de Engenharia de Computação, com um olhar especial para Desenvolvimento de Software, Ciência de Dados e Inteligência Artificial.</h3>
 
-- 🔭 Hoje em dia, estou no 10° semestre de engenharia de computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/)
+---
 
-- 🌱 Atualmente estou melhorando minhas habilidades em **Python e Desenvolvimento de Software**
+### 👨‍💻 Sobre Mim
+Apaixonado por resolver problemas complexos e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. Hoje, estou no 10º semestre de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde desenvolvo habilidades avançadas em **Desenvolvimento de Software** e **Mineração de Dados**.
 
-- 💬 Me pergunte sobre **SQL, Python, Docker, Programação competitiva, Eletrônica Digital, IoT**
+### 🎯 Objetivos e Interesses
+Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vida, como evidenciado pelo meu projeto de TCC, EasyMiner, que facilita a mineração de dados para pessoas sem conhecimento técnico. Também me interesso por **programação competitiva** e **Internet das Coisas (IoT)**, tendo participado de maratonas como o ICPC e realizado uma Iniciação Científica para desenvolver soluções assistivas para pessoas com Alzheimer.
 
-- 📫 Você me acha em **gusthavo_palm@hotmail.com**
-  
-- 📄 Sou  graduando de **Engenharia de Computação** no IFSP, mas também **Técnico em Eletroeletrônica**, formado pelo SENAI. Tenho conhecimento, no mínimo básico, na maioria das áreas da tecnologia, como Eletrônica, Elétrica, Programação e Engenharia. Em particular, tenho experiências pessoais na área de programação competitiva, tendo participado de algumas maratonas de programação. Também possuo experiência em programação de microcontroladores voltada para IoT, tendo realizado um projeto de Iniciação Científica nessa área. Além disso, tenho experiência em projetos de plantas CAD, adquirida por meio de um projeto de extensão da faculdade. Em relação à programação, possuo domínio nas linguagens C, Python e brinco com Javascript. Tenho experiências práticas academicas em diversas areas da Engenharia da computação, mas me destaquei nas áreas do software como mineração de dados e desenvolvimento de software.
+### 🚀 Experiências
+#### 💼 Estagiário em Desenvolvimento Web - Instar Tecnologia (Mar 2024 - Presente)
+- Refatoração de SaaS legado para órgãos públicos utilizando **Laravel**.
+- Criação de APIs RESTful, modelagem de bancos de dados MySQL e migração em massa.
+- Práticas de Clean Code, SOLID e design patterns para garantir escalabilidade.
+- Uso de **Scrum**, **Jira**, **Git Flow**, **Linux**, e **Docker** no gerenciamento de projetos.
 
+#### 🔬 Iniciação Científica - IFSP (Out 2022 - Ago 2023)
+- Projeto de Tecnologia Assistiva com IoT, criando um rastreador de baixo custo para pessoas com Alzheimer.
+- Utilização de **ESP32**, **LoRa** e **MQTT** para conectar dados a um sistema web, com informações armazenadas em banco de dados.
 
-<h3 align="left">Se conecte comigo em:</h3>
+### 🌱 Atualmente Aprendendo
+- Aprofundando em **Python**, com foco em **bibliotecas de data science** para apoiar o desenvolvimento do meu TCC.
+- Desenvolvendo o **EasyMiner**, uma plataforma acessível para mineração de dados que usa **Flask** e várias técnicas de **KDD (Knowledge Discovery in Databases)**.
+
+### 📫 Como Me Encontrar
+- Email: gusthavo_palm@hotmail.com
+- LinkedIn: [Willian Leme](https://linkedin.com/in/williangleme)
+
+---
+
+<h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 <p align="left">
-<a href="https://linkedin.com/in/williangleme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williangleme" height="30" width="40" /></a>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-<h3 align="left">Ferramentas e linguagens</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </
-a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🌐 Projetos em Destaque
+#### 🔹 [EasyMiner](https://github.com/seu-repositorio)
+Uma aplicação que democratiza o uso de algoritmos de mineração de dados, tornando-os acessíveis para usuários de diferentes backgrounds técnicos.

@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Apaixonado por resolver problemas complexos e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. Hoje, estou no 10º semestre de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde desenvolvo habilidades avançadas em **Desenvolvimento de Software** e **Mineração de Dados**.
+Apaixonado por resolver problemas complexos e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. Hoje, estou meu ultimo ano de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde venho desenvolvendo todas minhas habilidades com software e hardware. 
 
 ### 🎯 Objetivos e Interesses
 Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vida, como evidenciado pelo meu projeto de TCC, EasyMiner, que facilita a mineração de dados para pessoas sem conhecimento técnico. Também me interesso por **programação competitiva** e **Internet das Coisas (IoT)**, tendo participado de maratonas como o ICPC e realizado uma Iniciação Científica para desenvolver soluções assistivas para pessoas com Alzheimer.
@@ -25,9 +25,8 @@ Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vi
 - Desenvolvendo o **EasyMiner**, uma plataforma acessível para mineração de dados que usa **Flask** e várias técnicas de **KDD (Knowledge Discovery in Databases)**.
 
 ### 📫 Como Me Encontrar
-- Email: gusthavo_palm@hotmail.com
+- Email: [willian_leme@proton.me](mailto:willian_leme@proton.me)
 - LinkedIn: [Willian Leme](https://linkedin.com/in/williangleme)
-
 ---
 
 <h3 align="left">🛠️ Ferramentas e Tecnologias</h3>

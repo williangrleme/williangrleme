@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Willian</h1>
-<h3 align="center">Entusiasta de tecnologia e estudante de Engenharia de Computação, com um olhar especial para Desenvolvimento de Software, Ciência de Dados e Inteligência Artificial.</h3>
+<h3 align="center">Entusiasta de tecnologia e estudante de Engenharia de Computação, com um olhar especial para Desenvolvimento de Software e Ciência de Dados.</h3>
 
 ---
 

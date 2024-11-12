@@ -22,10 +22,6 @@ Estou aprofundando meus conhecimentos em **desenvolvimento web** no ecossistema 
 - LinkedIn: [Willian Leme](https://linkedin.com/in/williangleme)
 ---
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=williangrleme&layout=compact&langs_count=8&theme=radical)
-
-
-
 <h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>

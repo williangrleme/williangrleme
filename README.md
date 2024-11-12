@@ -11,17 +11,6 @@ Hoje, estou meu ultimo ano de Engenharia da Computação no [IFSP - Campus Birig
 ### 🎯 Objetivos e Interesses
 Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vida, como evidenciado pelo meu projeto de TCC, EasyMiner, que facilita a mineração de dados para pessoas sem conhecimento técnico. Também me interesso por **programação competitiva** e **Internet das Coisas (IoT)**, tendo participado de maratonas como o ICPC e realizado uma Iniciação Científica para desenvolver soluções assistivas para pessoas com Alzheimer.
 
-### 🚀 Experiências
-#### 💼 Estagiário em Desenvolvimento Web - Instar Tecnologia (Mar 2024 - Presente)
-- Refatoração de SaaS legado para órgãos públicos utilizando **Laravel**.
-- Criação de APIs RESTful, modelagem de bancos de dados MySQL e migração em massa.
-- Práticas de Clean Code, SOLID e design patterns para garantir escalabilidade.
-- Uso de **Scrum**, **Jira**, **Git Flow**, **Linux**, e **Docker** no gerenciamento de projetos.
-
-#### 🔬 Iniciação Científica - IFSP (Out 2022 - Ago 2023)
-- Projeto de Tecnologia Assistiva com IoT, criando um rastreador de baixo custo para pessoas com Alzheimer.
-- Utilização de **ESP32**, **LoRa** e **MQTT** para conectar dados a um sistema web, com informações armazenadas em banco de dados.
-
 
 ### 🌱 Atualmente Aprendendo
 Estou aprofundando meus conhecimentos em **desenvolvimento web** no ecossistema **Laravel**, focando em **testes unitários**, **design patterns**, **escalabilidade** e **segurança** das aplicações. Também estou ampliando minha compreensão sobre **arquitetura de software** para desenvolver soluções robustas e eficientes.

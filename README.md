@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Willian</h1>
 <h3 align="center">
-  Desenvolvedor de software com foco em back-end Laravel e estudante de Engenharia da Computação.  
+  Desenvolvedor back-end (Laravel) e estudante de Engenharia da Computação.  
 </h3>
 
 ---

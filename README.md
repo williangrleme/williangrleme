@@ -1,12 +1,17 @@
-<h1 align="center">Olá 👋, Eu sou o Willian</h1>
-<h3 align="center">  Estudante de Engenharia de Computação, com um olhar especial para Desenvolvimento de Software e Ciência de Dados.</h3>
+<h1 align="center">Olá 👋, eu sou o Willian</h1>
+<h3 align="center">
+  Desenvolvedor de software com foco em back-end Laravel e estudante de Engenharia da Computação.  
+</h3>
 
 ---
 
-### 👨‍💻 Sobre Mim
-Apaixonado por resolver problemas e transformar ideias em soluções práticas, venho explorando o universo da tecnologia desde a época do técnico em eletroeletrônica. 
+### 👨‍💻 Sobre Mim  
+Apaixonado por resolver problemas e transformar ideias em soluções práticas, minha jornada no mundo da tecnologia começou durante o curso técnico em Eletroeletrônica.  
 
-Hoje, estou meu ultimo ano de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde venho desenvolvendo todas minhas habilidades com software e hardware. 
+Atualmente, estou no último ano de Engenharia da Computação no [IFSP - Campus Birigui](https://bri.ifsp.edu.br/), onde tenho aprofundado minhas habilidades tanto em software quanto em hardware.  
+
+Meu foco principal está no desenvolvimento de soluções tecnológicas para enfrentar desafios do mundo real. Além disso, sou entusiasta da Ciência de Dados, explorando seu potencial como o maior ativo da história da humanidade.  
+
 
 ### 🎯 Objetivos e Interesses
 Meu objetivo é usar a tecnologia para promover acessibilidade e qualidade de vida, como evidenciado pelo meu projeto de TCC, EasyMiner, que facilita a mineração de dados para pessoas sem conhecimento técnico. Também me interesso por **programação competitiva** e **Internet das Coisas (IoT)**, tendo participado de maratonas como o ICPC e realizado uma Iniciação Científica para desenvolver soluções assistivas para pessoas com Alzheimer.

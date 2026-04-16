@@ -8,25 +8,33 @@
 
 ## Sobre mim
 
-Sou Engenheiro da Computação formado pelo IFSP e atuo como Desenvolvedor Back-End com foco em aplicações web robustas, escaláveis e bem estruturadas.
+Engenheiro da Computação pelo Instituto Federal de São Paulo (IFSP), atuo como
+Desenvolvedor Back-End com foco em aplicações web escaláveis, seguras e de fácil
+manutenção.
 
-Tenho experiência sólida no ecossistema **Laravel/PHP**, construindo APIs REST, modelando bancos de dados relacionais e aplicando boas práticas de engenharia de software no dia a dia. Gosto de transformar problemas complexos em soluções simples e eficientes — e de entregar código que outras pessoas conseguem manter e evoluir.
+Tenho experiência sólida com Laravel e PHP, desenvolvendo APIs REST, modelando
+bancos de dados relacionais e aplicando boas práticas de engenharia de software.
+Gosto de transformar complexidade em soluções objetivas — e acredito que tecnologia
+só faz sentido quando resolve problemas concretos.
 
 ---
 
 ## Stack & Experiência
 
-**Back-End**
-Laravel · PHP · APIs REST · Arquitetura de Software · SOLID · Clean Code
+**Back-End**  
+Laravel · PHP · APIs REST 
 
-**Banco de Dados**
-MySQL — modelagem relacional e otimização de queries
+**Banco de Dados**  
+MySQL | Postgresql — modelagem relacional e otimização de queries
 
-**Qualidade & Testes**
+**Qualidade & Testes**  
 Testes automatizados com Pest
 
-**Infraestrutura & Ferramentas**
-Docker · Kafka (mensageria e microsserviços) · Git · Linux
+**Processo & Ferramentas**  
+Git · Docker · Scrum · Linux
+
+**Boas Práticas**  
+SOLID · Clean Code · Arquitetura de Software
 
 ---
 
@@ -39,5 +47,5 @@ Docker · Kafka (mensageria e microsserviços) · Git · Linux
 
 ## Contato
 
-- **Email:** willian_leme@proton.me
+- **Email:** willian_leme@proton.me  
 - **LinkedIn:** [linkedin.com/in/williangleme](https://linkedin.com/in/williangleme)

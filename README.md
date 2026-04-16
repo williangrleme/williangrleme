@@ -49,6 +49,8 @@ Tenho interesse em áreas como:
 ---
 
 <h3 align="left">🛠️ Tecnologias</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
@@ -58,6 +60,7 @@ Tenho interesse em áreas como:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</div>
 
 ---
 
